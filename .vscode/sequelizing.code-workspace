@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "name": "ROOT",
+      "path": "../"
+    },
+    {
+      "name": "sequelizeHooks",
+      "path": "../sequelizeHooks"
+    },
+  ],
+  "settings": {
+    "files.exclude": {
+      "node_modules/": true,
+      "apps/": true
+    },
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#023741",
+      "titleBar.activeBackground": "#023741",
+      "titleBar.activeForeground": "#FEF9F5"
+    },
+  }
+}
